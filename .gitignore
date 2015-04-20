@@ -2,10 +2,11 @@
 .DS_Store
 *.swp
 log/*.log
-
+nodeJsTest.iml
 #################
 ## Directories
 #################
 
+.idea/
 dist/
 node_modules/
